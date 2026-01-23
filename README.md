@@ -4,10 +4,10 @@ Tired of clicking dozens of radio buttons for every evaluation? This lightweight
 
 Key Features:
 
-Universal Selection: Works by value rather than static IDs to ensure compatibility across different survey sections.
+1. Universal Selection: Works by value rather than static IDs to ensure compatibility across different survey sections.
 
-Auto-Submit: Includes a fallback search to find and click the green Submit button automatically.
+2. Auto-Submit: Includes a fallback search to find and click the green Submit button automatically.
 
-Error Handling: Designed to bypass missing questions without crashing the script.
+3. Error Handling: Designed to bypass missing questions without crashing the script.
 
-Disclaimer: For educational purposes only. Always review your answers before submitting.
+# Disclaimer: For educational purposes only. Always review your answers before submitting.
