@@ -5,7 +5,7 @@ Tired of clicking dozens of radio buttons for every evaluation? This lightweight
 
 
 ## Quick Start
-1. Copy the code by clicking [here](https://raw.githubusercontent.com/mikaeruu/pup-sis-survey-automation/master/filler.js) and hit Ctrl-A then right-click the highlighted text, then click 'Copy'.
+1. Grab the script by clicking [here](https://raw.githubusercontent.com/mikaeruu/pup-sis-survey-automation/master/filler.js)then press Ctrl+A to select everything and Ctrl+C to copy it to your clipboard.
 2.
 
 Key Features:
